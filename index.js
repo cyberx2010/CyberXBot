@@ -6,7 +6,7 @@ const {
   fetchLatestBaileysVersion,
   jidNormalizedUser,
   getContentType
-} = require('denethdev-baileys')
+} = require('@whiskeysockets/baileys')
 const fs = require('fs')
 const P = require('pino')
 const config = require('./config')
