@@ -6,7 +6,7 @@ const {
   fetchLatestBaileysVersion,
   jidNormalizedUser,
   getContentType
-} = require('manul-ofc-baileys-new')
+} = require('denethdev-baileys')
 const fs = require('fs')
 const P = require('pino')
 const config = require('./config')
