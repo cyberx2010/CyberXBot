@@ -9,7 +9,7 @@
     "restart": "pm2 restart HiranMD"
   },
   "dependencies": {
-    "whiskeysockets/baileys":"^6.7.17",
+    "@whiskeysockets/baileys":"^6.7.17",
     "@adiwajshing/keyed-db": "^0.2.4",
     "denethdev-ytmp3": "1.0.3",
     "google-tts-api": "^2.0.2",
