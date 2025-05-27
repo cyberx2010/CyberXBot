@@ -51,6 +51,6 @@
     "@mrnima/tiktok-downloader": "^1.0.0",
     "@mrnima/facebook-downloader": "^1.0.0",
     "ruhend-scraper": "^9.0.1",
-    "node-cache": "5.1.2",
+    "node-cache": "5.1.2"
   }
 }
