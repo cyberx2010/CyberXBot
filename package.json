@@ -9,7 +9,7 @@
     "restart": "pm2 restart HiranMD"
   },
   "dependencies": {
-    "manul-ofc-baileys-new":"1.0.0",
+    "denethdev-baileys":"1.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "denethdev-ytmp3": "1.0.3",
     "google-tts-api": "^2.0.2",
